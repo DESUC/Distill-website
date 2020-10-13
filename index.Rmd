@@ -1,0 +1,59 @@
+---
+title: "Embarazo Adolescente en Chile"
+description: |
+  Investigación revela nuevos escenarios sobre el embarazo adolescente en Chile
+author:
+  - name: Dirección de Estudios Sociales UC
+    url: http://sociologia.uc.cl/desuc/
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+# Descarga de informe
+
+Puede descargar el informe desde el [siguiente link](http://www.injuv.gob.cl/storage/docs/Libro_Embarazo_Adolescente%281%29.pdf)
+
+```{r}
+# knitr::include_graphics()
+```
+
+# Seminario
+
+<iframe width="560" height="400" 
+  src="https://www.youtube.com/embed/HZQ1UGY3VrE" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+
+1. **Bienvenida** DESUC - INJUV
+
+    Palabras de Bienvenida María Asunción Cekalovic, Directora Nacional (s) INJUV.
+ 
+2. Presentación estudio: **Evidencia a través de la vivencia: La mirada subjetiva sobre el embarazo juvenil en Chile** 
+
+    Josefa Hernández, *Investigadora Dirección de Estudios Sociales UC*.  
+    Comenta: Jorge Rodríguez, *Investigador Instituto Nacional de la Juventud Chile*.
+
+
+3. Ponencia: **Embarazo en el cono sur: el caso de Uruguay**. 
+
+    Jimena Torres, *Cientista política INJU Uruguay*.
+    Andrea Méndez, *Economista INJU Uruguay*
+
+
+4. Ponencia: **La contribución del programa espacios amigables a la caída de tasas de embarazo adolescente en Chile**.
+
+    Damian Clarke, *Académico U. de Chile e Investigador del Núcleo Milenio para el Estudio del Curso de Vida y la Vulnerabilidad (MLIV)*
+
+
+

@@ -1,0 +1,36 @@
+---
+title: "Sobre el estudio"
+description: |
+  Comunicado de lanzamiento del estudio
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Comunicado de lanzamiento
+
+**Santiago, septiembre 2020**
+
+Investigadoras de la Dirección de Estudios Sociales DESUC de la Pontificia Universidad Católica de Chile, y del Departamento de Estudios de INJUV, muestran a partir de un estudio los matices del embarazo adolescente en la actualidad, en un contexto de reciente descenso de la Tasa Específica de Fecundidad (TEF) adolescente.
+
+Años anteriores se mencionaba en la literatura que algunos embarazos en adolescentes de sectores vulnerables eran planificados principalmente por la validación del rol materno como proyecto de vida. Hoy en día está lejos de ser una experiencia deseada tanto en jóvenes de sectores vulnerables como jóvenes de nivel socioeconómico medio, según los resultados del estudio cualitativo conducido por las investigadoras [Conzuelo Rivas](mailto:ct.rivas@uc.cl), [Josefa Hernández](mailto:jp.hernandez@uc.cl) y [Vicky Rojas](mailto:vc.rojas2@uc.cl), de DESUC.
+
+Hasta marzo de este año, la experiencia de las y los jóvenes entrevistados que se encontraban con la maternidad/paternidad de manera no planificada, no siempre se generaba en contextos de vulnerabilidad, abriendo las hipótesis respecto a qué factores se involucran en un embarazo adolescente y cómo podemos evitarlos.
+Al respecto, Conzuelo Rivas comenta “Si bien las y los jóvenes tienen hoy más información asociada a su sexualidad, así como acceso a métodos anticonceptivos, todos mencionaron mitos respecto al uso correcto de los métodos los que justamente derivaron en sus embarazos”. Josefa Hernández complementa “De hecho, la sexualidad parece no ser un tabú para ellos y su entorno, la mayoría se encontraba usando métodos anticonceptivos con el consentimiento de sus madres y padres, sin embargo, parece ser un tema que se hace por cumplir y no conlleva un acompañamiento sobre su uso y el significado del inicio sexual”.
+
+El estudio también visibiliza que la mayoría de las y los jóvenes entrevistados poseen expectativas de continuación de estudios superiores, los cuales resultan cuesta arriba principalmente para las mujeres, quienes se ven enfrentadas a las desigualdades de género que se manifiestan patentemente en esta experiencia de maternidad no planificada. 
+
+Gracias a que el estudio contó con una mirada longitudinal, generando entrevistas en dos momentos del tiempo, se pudo observar los discursos de las y los jóvenes durante el embarazo y posterior al parto.  “Haber tenido dos entrevistas en distintos momentos nos permitió observar que las mujeres cargan más fuertemente con la transición simbólica a la adultez que los hombres, encarnándose en el hito del parto, donde en sus relatos ingresan siendo niñas para su entorno social y de salud, y salen siendo mujeres –en teoría- capaces de cuidar a un recién nacido” comenta Vicky Rojas.
+
+Lo anterior resulta preocupante cuando se considera que desde el sistema de salud existen pocos abordajes específicos de la maternidad y paternidad adolescente, considerando las mismas atenciones en adolescentes que en adultas cuando se trata, por ejemplo, del parto.
+
+Para Jorge Rodríguez de la Unidad de Planificación y Estudios de INJUV este estudio resulta importante por varias razones “en primer lugar, porque continúa estudios previos realizados por INJUV enriqueciendo la información que se tiene; en segundo lugar, complementa los datos obtenidos de la IX Encuesta nacional de juventud respecto a embarazos adolescentes capturando cualitativamente cómo se viven hoy en día, y finalmente, porque permite generar información a los programas de salud sexual y reproductiva que se vienen ejecutando desde la política pública”.
+
+Finalmente, el estudio destaca la importancia del apoyo de la red social y familiar para las y los jóvenes, ya que es un factor que los protege de las consecuencias negativas que esta experiencia puede generar en su salud mental.
+
+Los resultados del estudio se presentarán en un Seminario virtual el día martes 8 de septiembre a las 10:00 hrs., junto a otras investigaciones asociadas al tema desde INJU Uruguay, una investigación respecto al impacto de intervenciones sobre sexualidad adolescente en Chile por Damian Clarke, Investigador del Núcleo Milenio para el Estudio del Curso de Vida y la Vulnerabilidad (MLIV), y las miradas de política pública desde INJUV Chile.
+El evento se transmitirá desde redes sociales de DESUC y Facebook de INJUV.
+
+
+
